@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本機電腦": [
+      "Library\\SOIL\\out\\build\\x64-Debug",
+      "Library\\SOIL\\out\\install\\x64-Debug"
+    ]
+  }
+}
