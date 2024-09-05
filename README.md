@@ -26,3 +26,10 @@
 ### 💀 遊戲結束
 - **失敗條件**
   - 若玩家接住了葡萄，遊戲即告失敗。失敗後會顯示遊戲結束畫面，並可以按 `'r'` 鍵重新開始。
+
+### 畫面預覽：
+![image](https://github.com/user-attachments/assets/02cbe196-0d42-4ede-84c1-734ee2c2cec7)
+![image](https://github.com/user-attachments/assets/614f8fc1-de28-416a-87bb-36d27d934759)
+![image](https://github.com/user-attachments/assets/0fb6e5e2-4832-422f-a978-f0e11a435f8a)
+
+
